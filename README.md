@@ -6,4 +6,7 @@ This information is trivial to obtain on Linux through
 `/proc/cpuinfo`, so the primary target is Windows (`cpuinfo.exe`).
 Assembly requires [NASM][nasm] the GNU linker.
 
+Windows download: [cpuinfo.exe][dl]
+
 [nasm]: http://www.nasm.us/
+[dl]: https://github.com/skeeto/x86-cpuinfo/releases/download/1.0.0/cpuinfo.exe
